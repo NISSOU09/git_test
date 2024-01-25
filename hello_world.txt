@@ -1,0 +1,2 @@
+hi im following instruction of odin project so im adding a 
+random text to this file
